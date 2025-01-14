@@ -1,12 +1,3 @@
-#-------------------------------------------------------------------------------------------------------------------
-# BIG DATA PROCESSING ASSIGNMENT 3
-# ABHINAV BOHRA 18CS30049
-#-------------------------------------------------------------------------------------------------------------------
-# Run the script using the command 
-# spark-submit assignment-3-18CS30049.py <path to file> <query-word> <k> <stopword-file>
-# spark-submit assignment-3-18CS30049.py input.txt pyspark 3 stopword-list.txt
-#-------------------------------------------------------------------------------------------------------------------
-
 # Importing Required Libraries
 import re
 import sys
